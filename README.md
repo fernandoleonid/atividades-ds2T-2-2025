@@ -6,3 +6,5 @@
 4. Trocar Imagem
 5. Galeria
 6. Funcionários
+7. Produtos
+8. dog API
