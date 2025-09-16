@@ -9,3 +9,4 @@
 7. Produtos
 8. dog API
 9. [Consumo API](https://gist.github.com/fernandoleonid/2ee16538c2b72ccfcbb82547380497ab) - [VIACEP](https://viacep.com.br/)
+10. [Consumo API Pública](./apipublicas.md)
